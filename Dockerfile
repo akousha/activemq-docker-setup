@@ -1,4 +1,4 @@
-FROM webcenter/activemq:5.16.5
+FROM webcenter/activemq:latest
 
 # Expose ports for the ActiveMQ web console and message broker
 EXPOSE 8161 61616
